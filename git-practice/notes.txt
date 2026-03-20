@@ -4,3 +4,9 @@ Welcome to the Git Practice Repository
 This file is used for the Git branching and merging exercise.
 
 Initial content added on the main branch.
+
+--- Feature Login ---
+Added user authentication support:
+- Login form with username and password fields
+- Session token generation on successful login
+- Logout functionality to clear session
